@@ -1,0 +1,5 @@
+
+body { background-color:#f5f5f5; }
+.card { border-radius:10px; }
+@media (max-width:1024px){ .container{max-width:95%;} }
+@media (max-width:390px){ h3{font-size:18px;} .btn{width:100%;} }
